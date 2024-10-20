@@ -1,28 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Code\\Test_Projects\\Tutor1\\Utilities\\Utilities.csproj": {}
+    "C:\\Code\\Tutors\\Tutor1\\Utilities\\Utilities.csproj": {}
   },
   "projects": {
-    "D:\\Code\\Test_Projects\\Tutor1\\Utilities\\Utilities.csproj": {
+    "C:\\Code\\Tutors\\Tutor1\\Utilities\\Utilities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Code\\Test_Projects\\Tutor1\\Utilities\\Utilities.csproj",
+        "projectUniqueName": "C:\\Code\\Tutors\\Tutor1\\Utilities\\Utilities.csproj",
         "projectName": "Utilities",
-        "projectPath": "D:\\Code\\Test_Projects\\Tutor1\\Utilities\\Utilities.csproj",
-        "packagesPath": "C:\\Users\\Пользователь\\.nuget\\packages\\",
-        "outputPath": "D:\\Code\\Test_Projects\\Tutor1\\Utilities\\obj\\",
+        "projectPath": "C:\\Code\\Tutors\\Tutor1\\Utilities\\Utilities.csproj",
+        "packagesPath": "C:\\Users\\mail\\.nuget\\packages\\",
+        "outputPath": "C:\\Code\\Tutors\\Tutor1\\Utilities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Пользователь\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\mail\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

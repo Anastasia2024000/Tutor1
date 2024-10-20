@@ -9,3 +9,15 @@ D:\Code\Test_Projects\Tutor1\Utilities\obj\Debug\net8.0\Utilities.dll
 D:\Code\Test_Projects\Tutor1\Utilities\obj\Debug\net8.0\refint\Utilities.dll
 D:\Code\Test_Projects\Tutor1\Utilities\obj\Debug\net8.0\Utilities.pdb
 D:\Code\Test_Projects\Tutor1\Utilities\obj\Debug\net8.0\ref\Utilities.dll
+C:\Code\Tutors\Tutor1\Utilities\bin\Debug\net8.0\Utilities.deps.json
+C:\Code\Tutors\Tutor1\Utilities\bin\Debug\net8.0\Utilities.dll
+C:\Code\Tutors\Tutor1\Utilities\bin\Debug\net8.0\Utilities.pdb
+C:\Code\Tutors\Tutor1\Utilities\obj\Debug\net8.0\Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Tutors\Tutor1\Utilities\obj\Debug\net8.0\Utilities.AssemblyInfoInputs.cache
+C:\Code\Tutors\Tutor1\Utilities\obj\Debug\net8.0\Utilities.AssemblyInfo.cs
+C:\Code\Tutors\Tutor1\Utilities\obj\Debug\net8.0\Utilities.csproj.CoreCompileInputs.cache
+C:\Code\Tutors\Tutor1\Utilities\obj\Debug\net8.0\Utilities.sourcelink.json
+C:\Code\Tutors\Tutor1\Utilities\obj\Debug\net8.0\Utilities.dll
+C:\Code\Tutors\Tutor1\Utilities\obj\Debug\net8.0\refint\Utilities.dll
+C:\Code\Tutors\Tutor1\Utilities\obj\Debug\net8.0\Utilities.pdb
+C:\Code\Tutors\Tutor1\Utilities\obj\Debug\net8.0\ref\Utilities.dll
