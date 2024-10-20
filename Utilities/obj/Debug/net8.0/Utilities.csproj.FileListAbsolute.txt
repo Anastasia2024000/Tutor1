@@ -1,0 +1,11 @@
+D:\Code\Test_Projects\Tutor1\Utilities\bin\Debug\net8.0\Utilities.deps.json
+D:\Code\Test_Projects\Tutor1\Utilities\bin\Debug\net8.0\Utilities.dll
+D:\Code\Test_Projects\Tutor1\Utilities\bin\Debug\net8.0\Utilities.pdb
+D:\Code\Test_Projects\Tutor1\Utilities\obj\Debug\net8.0\Utilities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Test_Projects\Tutor1\Utilities\obj\Debug\net8.0\Utilities.AssemblyInfoInputs.cache
+D:\Code\Test_Projects\Tutor1\Utilities\obj\Debug\net8.0\Utilities.AssemblyInfo.cs
+D:\Code\Test_Projects\Tutor1\Utilities\obj\Debug\net8.0\Utilities.csproj.CoreCompileInputs.cache
+D:\Code\Test_Projects\Tutor1\Utilities\obj\Debug\net8.0\Utilities.dll
+D:\Code\Test_Projects\Tutor1\Utilities\obj\Debug\net8.0\refint\Utilities.dll
+D:\Code\Test_Projects\Tutor1\Utilities\obj\Debug\net8.0\Utilities.pdb
+D:\Code\Test_Projects\Tutor1\Utilities\obj\Debug\net8.0\ref\Utilities.dll
