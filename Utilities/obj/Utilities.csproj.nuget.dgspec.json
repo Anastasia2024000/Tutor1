@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Code\\Tutors\\Tutor1\\Utilities\\Utilities.csproj": {}
+    "c:\\Code\\Tutors\\Tutor1\\Utilities\\Utilities.csproj": {}
   },
   "projects": {
-    "C:\\Code\\Tutors\\Tutor1\\Utilities\\Utilities.csproj": {
+    "c:\\Code\\Tutors\\Tutor1\\Utilities\\Utilities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Code\\Tutors\\Tutor1\\Utilities\\Utilities.csproj",
+        "projectUniqueName": "c:\\Code\\Tutors\\Tutor1\\Utilities\\Utilities.csproj",
         "projectName": "Utilities",
-        "projectPath": "C:\\Code\\Tutors\\Tutor1\\Utilities\\Utilities.csproj",
+        "projectPath": "c:\\Code\\Tutors\\Tutor1\\Utilities\\Utilities.csproj",
         "packagesPath": "C:\\Users\\mail\\.nuget\\packages\\",
-        "outputPath": "C:\\Code\\Tutors\\Tutor1\\Utilities\\obj\\",
+        "outputPath": "c:\\Code\\Tutors\\Tutor1\\Utilities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mail\\AppData\\Roaming\\NuGet\\NuGet.Config"

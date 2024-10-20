@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Code\\Tutors\\Tutor1\\Tutor1\\Tutor1.csproj",
+      "projectUniqueName": "c:\\Code\\Tutors\\Tutor1\\Tutor1\\Tutor1.csproj",
       "projectName": "Tutor1",
-      "projectPath": "C:\\Code\\Tutors\\Tutor1\\Tutor1\\Tutor1.csproj",
+      "projectPath": "c:\\Code\\Tutors\\Tutor1\\Tutor1\\Tutor1.csproj",
       "packagesPath": "C:\\Users\\mail\\.nuget\\packages\\",
-      "outputPath": "C:\\Code\\Tutors\\Tutor1\\Tutor1\\obj\\",
+      "outputPath": "c:\\Code\\Tutors\\Tutor1\\Tutor1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mail\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -51,8 +51,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Code\\Tutors\\Tutor1\\Utilities\\Utilities.csproj": {
-              "projectPath": "C:\\Code\\Tutors\\Tutor1\\Utilities\\Utilities.csproj"
+            "c:\\Code\\Tutors\\Tutor1\\Utilities\\Utilities.csproj": {
+              "projectPath": "c:\\Code\\Tutors\\Tutor1\\Utilities\\Utilities.csproj"
             }
           }
         }
